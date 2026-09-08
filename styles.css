@@ -14,7 +14,7 @@ body {
 }
 
 nav {
-    grid-column: snap 5;
+    grid-column: span 5;
 }
 
 header {
