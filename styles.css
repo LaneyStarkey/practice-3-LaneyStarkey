@@ -44,3 +44,7 @@ section {
 .bg-red {
     background-color: crimson;
 }
+
+footer {
+    grid-column: span 5
+}
