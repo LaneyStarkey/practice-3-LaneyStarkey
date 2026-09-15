@@ -66,15 +66,15 @@ p {
     background: red
     color: white
 }
-bg-blue{
+.bg-blue{
     background: blue;
     color:white
 }
-bg-yellow{
+.bg-yellow{
     background: yellow
     color:black
 }
-bg-white{
+.bg-white{
     background: white;
     color:black
 }
